@@ -22,7 +22,7 @@ class getmix(scrapy.Spider):
 			RANGE_SELECTOR = './tr[2]/td[2]/div/span/text()'
 			SPECIFIC_SELECTOR = './tr[2]/td[4]/div/span/text()'
 			HABITAT_SELECTOR = './tr[3]/td[2]/div/span/text()'
-			FORMULA_SELECTOR = './tr[4]/td[2]/div/span/text()'
+			FORMULA_SELECTOR = './tr[4]/td[2]//text()'
 
 			yield {
 				'name': hench.xpath(NAME_SELECTOR).extract_first(),
@@ -30,6 +30,15 @@ class getmix(scrapy.Spider):
 				'range': hench.xpath(RANGE_SELECTOR).extract_first(),
 				'specific': hench.xpath(SPECIFIC_SELECTOR).extract_first(),
 				'habitat': hench.xpath(HABITAT_SELECTOR).extract_first(),
-				'formula': hench.xpath(FORMULA_SELECTOR).extract_first(),
+				'formula': fix_formula(", ".join(hench.xpath(FORMULA_SELECTOR).extract())),
 				'type': response.url.rsplit('/', 1)[-1].rsplit('.', 1)[0]
 			}
+
+def fix_formula(formula):
+	return formula.replace('\n, \n, ', '*')  \
+				  .replace('\n,', '')         \
+				  .replace(', \n', '')         \
+				  .replace('*Formula MMHK', '') \
+				  .replace(',', '')              \
+				  .replace(' *', ', ')            \
+				  .replace('\n-  \nFormula MMHK  \n', '')
