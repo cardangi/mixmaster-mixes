@@ -3,15 +3,13 @@
 import scrapy
 
 class getmix(scrapy.Spider):
-	name = 'getmixes'
-	start_urls = ['http://formulasmixmaster.blogspot.com.br/p/dragon.html', 
-				  'http://formulasmixmaster.blogspot.com.br/p/beast.html',
-				  'http://formulasmixmaster.blogspot.com.br/p/bird.html',
-				  'http://formulasmixmaster.blogspot.com.br/p/devil.html',
-				  'http://formulasmixmaster.blogspot.com.br/p/insect.html',
-				  'http://formulasmixmaster.blogspot.com.br/p/metal.html',
-				  'http://formulasmixmaster.blogspot.com.br/p/mystic.html',
-				  'http://formulasmixmaster.blogspot.com.br/p/plant.html']
+	types      = ['dragon', 'beast', 'bird', 'devil', 'insect', 'metal', 'mystic', 'plant']
+	url        = 'http://formulasmixmaster.blogspot.com.br/p/{0}.html'
+	name       = 'getmixes'
+	start_urls = []
+
+	for type in types:
+		start_urls = start_urls + [url.format(type)]
 
 	def parse(self, response):
 		HENCH_SELECTOR = '//tbody/tr[@style = "height: 18.75pt;"]/..'
