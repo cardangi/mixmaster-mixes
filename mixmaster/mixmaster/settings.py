@@ -14,6 +14,12 @@ BOT_NAME = 'mixmaster'
 SPIDER_MODULES = ['mixmaster.spiders']
 NEWSPIDER_MODULE = 'mixmaster.spiders'
 
+IMAGES_STORE = 'images/'
+
+ITEM_PIPELINES = {
+    'mixmaster.pipelines.JsonWriterPipeline': 999
+}
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'mixmaster (+http://www.yourdomain.com)'
