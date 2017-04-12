@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 
-import scrapy
+from scrapy import Field, Item
 
-class Core(scrapy.Item):
-    name = scrapy.Field()
+class Core(Item):
+    name     = Field()
+    level    = Field()
+    range    = Field()
+    specific = Field()
+    type     = Field()
