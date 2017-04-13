@@ -2,7 +2,6 @@
 
 from scrapy          import Spider, Request
 from mixmaster.items import Core
-from re              import search
 
 class Cores(Spider):
 	name = 'cores'

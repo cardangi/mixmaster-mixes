@@ -4,7 +4,7 @@ from scrapy.pipelines.images import ImagesPipeline
 
 class JsonWriterPipeline(object):
     def open_spider(self, spider):
-        self.file = open('items.jl', 'wb')
+        self.file = open('cores.jl', 'wb')
 
     def close_spider(self, spider):
         self.file.close()
