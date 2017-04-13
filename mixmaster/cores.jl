@@ -1,234 +1,235 @@
-{"name": "Birdco", "level": "1/26", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "Chicoe", "level": "3/28", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "Caminho", "level": "5/30", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "Pengie", "level": "7/32", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "MelonFlyer", "level": "9/34", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "DooDoo", "level": "11/36", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "Starbird", "level": "13/38", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "ForceFlyer", "level": "15/40", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "HighLife", "level": "17/42", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "Brubli", "level": "19/44", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "NightIme", "level": "21/46", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": null, "level": "25/50", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "Synicks", "level": "30/55", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "Manta", "level": "31/56", "range": "Short range", "specific": "Attack first", "type": "bird"}
-{"name": "Thunderbird", "level": "48/73", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "SwordTail", "level": "56/81", "range": "Short range", "specific": "No attack first", "type": "bird"}
-{"name": "Phoenix", "level": "58/83", "range": "Short range", "specific": "Attack first", "type": "bird"}
-{"name": "Madtailor", "level": "68/93", "range": "Long range", "specific": "No attack first", "type": "bird"}
-{"name": "WingCrusher", "level": "69/94", "range": "Short range", "specific": "Attack first", "type": "bird"}
-{"name": "WingStormer", "level": "81/106", "range": "Long range", "specific": "Attack first", "type": "bird"}
-{"name": "Rockyrush", "level": "98/123", "range": "Short range", "specific": "Attack first", "type": "bird"}
-{"name": "NeoMad", "level": "107/132", "range": "Long range", "specific": "Attack first", "type": "bird"}
-{"name": "Harpy", "level": "117/142", "range": "Long range", "specific": "Attack first", "type": "bird"}
-{"name": "WingThunder", "level": "120/145", "range": "Long range", "specific": "Attack first", "type": "bird"}
-{"name": "Griffin", "level": "130/155", "range": "Long range", "specific": "Attack first", "type": "bird"}
-{"name": "Pioki", "level": "140/165", "range": "Long range", "specific": "Attack first", "type": "bird"}
-{"name": "Cupid", "level": "160/185", "range": "Long range", "specific": "Attack first", "type": "bird"}
-{"name": "Pioking", "level": "164/189", "range": "Long range", "specific": "Attack first", "type": "bird"}
-{"name": "Darkpitt", "level": "166/191", "range": "Long range", "specific": "Attack first", "type": "bird"}
-{"name": "KalinAngel\u00a0", "level": "167/192", "range": "Long range", "specific": "Attack first", "type": "bird"}
-{"name": "KalinAngel(Fake)", "level": "167/192", "range": "Long range", "specific": "Attack first", "type": "bird"}
-{"name": "Draco", "level": "1/26", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "Pikey", "level": "3/28", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "Imon", "level": "5/30", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "Noa", "level": "7/32", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "Draki", "level": "9/34", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "Gago", "level": "11/36", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "Bigon", "level": "13/38", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "SQ-21", "level": "14/39", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "Kurma", "level": "15/40", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "Deepsuffer", "level": "17/42", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "Mitra", "level": "20/45", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "ArmaBall", "level": "26/51", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "Haedragon", "level": "29/54", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "BattleDragon", "level": "36/61", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "BattleRoyale", "level": "46/71", "range": "Short range", "specific": "Attack first", "type": "dragon"}
-{"name": "Laustar", "level": "48/73", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "Greentail", "level": "52/77", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "SilverLaustar", "level": "58/83", "range": "Short range", "specific": "Attack first", "type": "dragon"}
-{"name": "Dragoer", "level": "69/94", "range": "Long range", "specific": "No attack first", "type": "dragon"}
-{"name": "NeoSilver", "level": "78/103", "range": "Short range", "specific": "No attack first", "type": "dragon"}
-{"name": "BlazeRhino", "level": "93/118", "range": "Short range", "specific": "Attack first", "type": "dragon"}
-{"name": "Seki-Shu-Ryu", "level": "102/127", "range": "Long range", "specific": "Attack first", "type": "dragon"}
-{"name": "Ki-Ryu", "level": "115/140", "range": "Long range", "specific": "Attack first", "type": "dragon"}
-{"name": "Fairudo", "level": "120/145", "range": "Long range", "specific": "Attack first", "type": "dragon"}
-{"name": "Fireduke", "level": "135/160", "range": "Long range", "specific": "Attack first", "type": "dragon"}
-{"name": "NeoSeki-Shu-Ryu", "level": "140/165", "range": "Long range", "specific": "Attack first", "type": "dragon"}
-{"name": "InfernoDuke", "level": "152/175", "range": "Long range", "specific": "Attack first", "type": "dragon"}
-{"name": "ProzenRhino", "level": "163/175", "range": "Short range", "specific": "Attack first", "type": "dragon"}
-{"name": "BlueGarugon", "level": "169/175", "range": "Long range", "specific": "Attack first", "type": "dragon"}
-{"name": "Garugon", "level": "175/175", "range": "Long range", "specific": "No attack first", "type": "dragon"}
-{"name": "Beasco", "level": "1/26", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "Goa", "level": "5/30", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "Nosie", "level": "7/32", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "CryBop", "level": "9/34", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "Turton", "level": "11/36", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "SunEack", "level": "13/38", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "CheezDogg", "level": "15/40", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "Rabie", "level": "18/43", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "MimiEack", "level": "20/45", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "Cowty", "level": "24/49", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "OneStump", "level": "27/52", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "MintRabie", "level": "28/53", "range": "Short range", "specific": "Attack first", "type": "beast"}
-{"name": "Liddy", "level": "30/55", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "Torra", "level": "34/59", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "Clawless", "level": "43/68", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "Rrainova", "level": "47/72", "range": "Short range", "specific": "No attack first", "type": "beast"}
-{"name": "Dashabell", "level": "69/94", "range": "Short range", "specific": "Attack first", "type": "beast"}
-{"name": "MintClaw", "level": "73/98", "range": "Long range", "specific": "Attack first", "type": "beast"}
-{"name": "TorraX", "level": "82/107", "range": "Short range", "specific": "Attack first", "type": "beast"}
-{"name": "BladeDashabell", "level": "83/108", "range": "Long range", "specific": "No attack first", "type": "beast"}
-{"name": "Wagstuff", "level": "89/114", "range": "Short range", "specific": "Attack first", "type": "beast"}
-{"name": "GreenTravel", "level": "94/119", "range": "Long range", "specific": "Attack first", "type": "beast"}
-{"name": "EvilClaw", "level": "100/125", "range": "Long range", "specific": "Attack first", "type": "beast"}
-{"name": "WhiteWags", "level": "104/129", "range": "Long range", "specific": "Attack first", "type": "beast"}
-{"name": "MintLion", "level": "106/131", "range": "Long range", "specific": "Attack first", "type": "beast"}
-{"name": "Snowfoxy", "level": "112/137", "range": "Long range", "specific": "Attack first", "type": "beast"}
-{"name": "Rhine", "level": "119/144", "range": "Short range", "specific": "Attack first", "type": "beast"}
-{"name": "BluePigy", "level": "125/150", "range": "Long range", "specific": "Attack first", "type": "beast"}
-{"name": "DarkTravel", "level": "127/152", "range": "Long range", "specific": "Attack first", "type": "beast"}
-{"name": "MintLionKing", "level": "135/160", "range": "Long range", "specific": "Attack first", "type": "beast"}
-{"name": "KingRhine", "level": "151/175", "range": "Short range", "specific": "Attack first", "type": "beast"}
-{"name": "NeoKingMintLion", "level": "162/175", "range": "Long range", "specific": "Attack first", "type": "beast"}
-{"name": "WindGril", "level": "162/175", "range": "Long range", "specific": "Attack first", "type": "beast"}
-{"name": "Inseco", "level": "1/26", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "Devilco", "level": "1/26", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Pee", "level": "3/28", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "Bookworm", "level": "5/30", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "SnakeEye", "level": "7/32", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "Mosky", "level": "9/34", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "CabbageFighter", "level": "11/36", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "BellyLady", "level": "13/38", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "NTV", "level": "15/40", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "PayaPaya", "level": "18/43", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "Baccho", "level": "21/46", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "Bolarish", "level": "24/49", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "DayCrawl", "level": "27/52", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "Delcoi", "level": "30/55", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "Asakayza", "level": "37/62", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "HornKing", "level": "47/72", "range": "Long range", "specific": "Attack first", "type": "insect"}
-{"name": "BeetlePete", "level": "53/78", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "KingDusty", "level": "65/90", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "BloodStinger", "level": "74/99", "range": "Short range", "specific": "No attack first", "type": "insect"}
-{"name": "Rurabbi", "level": "3/28", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Bebe", "level": "5/30", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Buma", "level": "7/32", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "PoochDev", "level": "9/34", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Marogni", "level": "11/36", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Pirosty", "level": "13/38", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Monggyal", "level": "15/40", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "WildBuma", "level": "16/41", "range": "Short range", "specific": "Attack first", "type": "devil"}
-{"name": "MoonRaid", "level": "17/42", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "ArnDev", "level": "19/44", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Mahollow", "level": "21/46", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "MysticYoyo", "level": "35/60", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Skullwiser", "level": "38/63", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Amazonez", "level": "48/73", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Wiesha", "level": "49/74", "range": "Short range", "specific": "Attack first", "type": "devil"}
-{"name": "Kill", "level": "80/105", "range": "Long range", "specific": "No attack first", "type": "insect"}
-{"name": "Bamudar", "level": "98/123", "range": "Long range", "specific": "No attack first", "type": "insect"}
-{"name": "Siper", "level": "102/127", "range": "Short range", "specific": "Attack first", "type": "insect"}
-{"name": "DevilDusty", "level": "106/131", "range": "Long range", "specific": "-", "type": "insect"}
-{"name": "Ziller", "level": "118/143", "range": "Short range", "specific": "Attack first", "type": "insect"}
-{"name": "DeadlyBamude", "level": "125/150", "range": "Long range", "specific": "Attack first", "type": "insect"}
-{"name": "Siperous", "level": "135/160", "range": "Long range", "specific": "Attack first", "type": "insect"}
-{"name": "KillerZill", "level": "138/163", "range": "Short range", "specific": "Attack first", "type": "insect"}
-{"name": "QueenSting", "level": "142/167", "range": "Short range", "specific": "Attack first", "type": "insect"}
-{"name": "Scorpesis", "level": "154/175", "range": "Short range", "specific": "Attack first", "type": "insect"}
-{"name": "Metaco", "level": "1/26", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "Metalocks", "level": "3/28", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "Pumped", "level": "52/77", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Tomated", "level": "62/87", "range": "Short range", "specific": "Attack first", "type": "devil"}
-{"name": "PumpedCurse", "level": "62/87", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Kuguto", "level": "65/90", "range": "Short range", "specific": "Attack first", "type": "devil"}
-{"name": "Blackened", "level": "68/93", "range": "Short range", "specific": "-", "type": "devil"}
-{"name": "PhantomWing-X", "level": "79/104", "range": "Short range", "specific": "No attack first", "type": "devil"}
-{"name": "Ordevil", "level": "88/113", "range": "Long range", "specific": "Attack first", "type": "devil"}
-{"name": "Devilstone", "level": "99/124", "range": "Short range", "specific": "Attack first", "type": "devil"}
-{"name": "Maleki", "level": "105/130", "range": "Short range", "specific": "Attack first", "type": "devil"}
-{"name": "NeoOrdevil", "level": "113/138", "range": "Long range", "specific": "Attack first", "type": "devil"}
-{"name": "NeoDevilstone", "level": "120/145", "range": "Long range", "specific": "Attack first", "type": "devil"}
-{"name": "Saruff", "level": "126/151", "range": "Long range", "specific": "Attack first", "type": "devil"}
-{"name": "Banshee", "level": "137/163", "range": "Long range", "specific": "Attack first", "type": "devil"}
-{"name": "GateToDeath", "level": "150/175", "range": "Long range", "specific": "Attack first", "type": "devil"}
-{"name": "NeoBanshee", "level": "161/175", "range": "Long range", "specific": "Attack first", "type": "devil"}
-{"name": "Flowco", "level": "1/26", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "BigMaq", "level": "5/30", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "Nippa", "level": "7/32", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "Oilpot", "level": "9/34", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "MechaBall", "level": "11/36", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "Waterball", "level": "13/38", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "Bota", "level": "15/40", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "Monoeye", "level": "20/45", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "TankTortus", "level": "27/52", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "AncientKilla", "level": "38/63", "range": "Long range", "specific": "Attack first", "type": "metal"}
-{"name": "Gamerika", "level": "50/75", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "SoulBreaker", "level": "68/93", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "Ayaya", "level": "75/100", "range": "Long range", "specific": "Attack first", "type": "metal"}
-{"name": "NeoSoul", "level": "80/105", "range": "Long range", "specific": "No attack first", "type": "metal"}
-{"name": "NeoGamerika", "level": "80/105", "range": "Short range", "specific": "No attack first", "type": "metal"}
-{"name": "CrimsonMetal", "level": "90/115", "range": "Short range", "specific": "Attack first\u00a0", "type": "metal"}
-{"name": "BomberGun", "level": "98/123", "range": "Long range", "specific": "Attack first", "type": "metal"}
-{"name": "NeoAyaya", "level": "101/126", "range": "Long range", "specific": "Attack first", "type": "metal"}
-{"name": "Dalsipper", "level": "165/175", "range": "Long range", "specific": "Attack first", "type": "devil"}
-{"name": "NinjaGirl", "level": "170/175", "range": "Long range", "specific": "Attack first", "type": "devil"}
-{"name": "Mysco", "level": "1/26", "range": "Short range", "specific": "No attack first", "type": "mystic"}
-{"name": "Ukki", "level": "3/28", "range": "Short range", "specific": "No attack first", "type": "mystic"}
-{"name": "Manglock", "level": "3/28", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Jamoo", "level": "5/30", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Mameo", "level": "7/32", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Beanie", "level": "9/34", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Yeon", "level": "11/36", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Crutchie", "level": "13/38", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Nars", "level": "15/40", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "TimTona", "level": "18/43", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "SpineMush", "level": "20/45", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Lemoni", "level": "22/47", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Douda", "level": "24/49", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Pana", "level": "27/52", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "TheUnknown", "level": "114/139", "range": "Short range", "specific": "Attack first", "type": "metal"}
-{"name": "Gunsmash", "level": "117/142", "range": "Long range", "specific": "Attack first", "type": "metal"}
-{"name": "BomberGunMk2", "level": "136/161", "range": "Long range", "specific": "Attack first", "type": "metal"}
-{"name": "SilverKun", "level": "144/168", "range": "Long range", "specific": "Attack first", "type": "metal"}
-{"name": "Bluemetal", "level": "153/175", "range": "Short range", "specific": "Attack first", "type": "metal"}
-{"name": "BomberGunX", "level": "160/175", "range": "Long range", "specific": "Attack first", "type": "metal"}
-{"name": "MixDestroyer", "level": "168/175", "range": "Long range", "specific": "Attack first", "type": "metal"}
-{"name": "NortsNcross", "level": "5/30", "range": "Short range", "specific": "No attack first", "type": "mystic"}
-{"name": "RingWorm", "level": "7/32", "range": "Short range", "specific": "No attack first", "type": "mystic"}
-{"name": "Haneping", "level": "9/34", "range": "Short range", "specific": "No attack first", "type": "mystic"}
-{"name": "Bangie", "level": "11/36", "range": "Short range", "specific": "No attack first", "type": "mystic"}
-{"name": "Soo", "level": "13/38", "range": "Short range", "specific": "No attack first", "type": "mystic"}
-{"name": "Sumping", "level": "15/40", "range": "Short range", "specific": "No attack first", "type": "mystic"}
-{"name": "Dr.Calvin", "level": "30/55", "range": "Short range", "specific": "No attack first", "type": "mystic"}
-{"name": "AquaPing", "level": "38/63", "range": "Long range", "specific": "Attack first", "type": "mystic"}
-{"name": "Chowie", "level": "45/70", "range": "Short range", "specific": "No attack first", "type": "mystic"}
-{"name": "InsaneDoctor", "level": "67/92", "range": "Short range", "specific": "Attack first", "type": "mystic"}
-{"name": "Yassie", "level": "30/55", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Cactusing", "level": "33/58", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "HornMameo", "level": "35/60", "range": "Long range", "specific": "No attack first", "type": "plant"}
-{"name": "Tenkaki", "level": "43/68", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Chikaki", "level": "46/71", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Ballza", "level": "60/85", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Mantyplan", "level": "76/101", "range": "Short range", "specific": "No attack first", "type": "plant"}
-{"name": "Shin-Chikaki", "level": "81/106", "range": "Long range", "specific": "No attack first", "type": "plant"}
-{"name": "WildBallza", "level": "105/130", "range": "Long range", "specific": "Attack first", "type": "plant"}
-{"name": "Flower", "level": "114/139", "range": "Long range", "specific": "Attack first", "type": "plant"}
-{"name": "Elder", "level": "126/151", "range": "Long range", "specific": "Attack first", "type": "plant"}
-{"name": "Eldering", "level": "140/165", "range": "Long range", "specific": "Attack first", "type": "plant"}
-{"name": "NeoSunFlower", "level": "146/171", "range": "Long range", "specific": "Attack first", "type": "plant"}
-{"name": "RedLeaf", "level": "152/175", "range": "Long range", "specific": "Attack first", "type": "plant"}
-{"name": "Garlingz", "level": "170/175", "range": "Long range", "specific": "Attack first", "type": "plant"}
-{"name": "Stoner", "level": "72/97", "range": "Short range", "specific": "Attack first", "type": "mystic"}
-{"name": "Gokuma", "level": "78/103", "range": "Long range", "specific": "Attack first", "type": "mystic"}
-{"name": "Snogyun", "level": "84/109", "range": "Long range", "specific": "Attack first", "type": "mystic"}
-{"name": "MacT-Bone", "level": "101/126", "range": "Short range", "specific": "Attack first", "type": "mystic"}
-{"name": "NeoGokuma", "level": "107/132", "range": "Long range", "specific": "Attack first", "type": "mystic"}
-{"name": "Binocchio", "level": "110/135", "range": "Long range", "specific": "Attack first", "type": "mystic"}
-{"name": "Mr.Rupert", "level": "121/146", "range": "Short range", "specific": "Attack first", "type": "mystic"}
-{"name": "Snowball", "level": "126/151", "range": "Short range", "specific": "Attack first", "type": "mystic"}
-{"name": "SirPupert", "level": "139/164", "range": "Short range", "specific": "Attack first", "type": "mystic"}
-{"name": "XT-Bone", "level": "145/170", "range": "Long range", "specific": "Attack first", "type": "mystic"}
-{"name": "Mintmal", "level": "153/175", "range": "Long range", "specific": "Attack first", "type": "mystic"}
-{"name": "ShadowMagic", "level": "160/175", "range": "Long range", "specific": "Attack first", "type": "mystic"}
-{"name": "ArmIris", "level": "173/175", "range": "Long range", "specific": "Attack first", "type": "mystic"}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster001.gif"], "id": "001", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster001.gif", "path": "cores/001.jpg", "checksum": "e2a6a8c5202afc01e19a17385ce198a6"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster041.gif"], "id": "041", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster041.gif", "path": "cores/041.jpg", "checksum": "3393da4790f2931c394b2a7762120ae2"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster058.gif"], "id": "058", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster058.gif", "path": "cores/058.jpg", "checksum": "873f2abb20699716c87e67143a5d2cc4"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster049.gif"], "id": "049", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster049.gif", "path": "cores/049.jpg", "checksum": "3abac64932c434f267f399c5560abc3e"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster057.gif"], "id": "057", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster057.gif", "path": "cores/057.jpg", "checksum": "0490e8066663a8d37bec2db5ddc05298"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster009.gif"], "id": "009", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster009.gif", "path": "cores/009.jpg", "checksum": "036a11debd8264b2278e34e73fe8b40d"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster025.gif"], "id": "025", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster025.gif", "path": "cores/025.jpg", "checksum": "d037c2b6816b6359789d3740729721e4"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster033.gif"], "id": "033", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster033.gif", "path": "cores/033.jpg", "checksum": "31232306564db8015b9dd93bb730cd29"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster017.gif"], "id": "017", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster017.gif", "path": "cores/017.jpg", "checksum": "9777da0ffafffd763669a46258ef83f7"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster067.gif"], "id": "067", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster067.gif", "path": "cores/067.jpg", "checksum": "c53b3c4074978cebedbd46f9395f5e45"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster075.gif"], "id": "075", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster075.gif", "path": "cores/075.jpg", "checksum": "312b8581805edb2cc424af2437fb9a5c"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster089.gif"], "id": "089", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster089.gif", "path": "cores/089.jpg", "checksum": "c55bb53ccdbb0261c8bd575c721f626f"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster095.gif"], "id": "095", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster095.gif", "path": "cores/095.jpg", "checksum": "05a857b1e6a9bca1ca96bde602c6859b"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster114.gif"], "id": "114", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster114.gif", "path": "cores/114.jpg", "checksum": "b130edfe881f12373b57c0a6f665d545"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster106.gif"], "id": "106", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster106.gif", "path": "cores/106.jpg", "checksum": "5074c5bb58555bce994b1402fcd2eddc"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster118.gif"], "id": "118", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster118.gif", "path": "cores/118.jpg", "checksum": "d1a6b33b7fe86ead3e4a5715815cefa7"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster123.gif"], "id": "123", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster123.gif", "path": "cores/123.jpg", "checksum": "10fedfeb3dfda33e33cd243e204018ab"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster127.gif"], "id": "127", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster127.gif", "path": "cores/127.jpg", "checksum": "06aef0cb9c6a67c4cdae0585fddfd1fe"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster140.gif"], "id": "140", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster140.gif", "path": "cores/140.jpg", "checksum": "2e11d173518db4e3080f6260d2abb48a"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster147.gif"], "id": "147", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster147.gif", "path": "cores/147.jpg", "checksum": "0241c2b731d13862f406521f919c6284"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster160.gif"], "id": "160", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster160.gif", "path": "cores/160.jpg", "checksum": "463d8a442c233354f53b67218b739df2"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster169.gif"], "id": "169", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster169.gif", "path": "cores/169.jpg", "checksum": "f199e3f532a21c1fd71f558b133769c5"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster183.gif"], "id": "183", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster183.gif", "path": "cores/183.jpg", "checksum": "ace98df430ac0144c10b06a6ff9204a1"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster188.gif"], "id": "188", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster188.gif", "path": "cores/188.jpg", "checksum": "0ed1109661dc279f8e9457186f1c28e2"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster206.gif"], "id": "206", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster206.gif", "path": "cores/206.jpg", "checksum": "78e494f36252e39965333a4eb8a22cf4"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster201.gif"], "id": "201", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster201.gif", "path": "cores/201.jpg", "checksum": "6eb4d67d841df497dcd2badb08744191"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster215.gif"], "id": "215", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster215.gif", "path": "cores/215.jpg", "checksum": "99b83dee9473f218a59451229e1bfe6b"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster226.gif"], "id": "226", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster226.gif", "path": "cores/226.jpg", "checksum": "5328e9d3d22896d46a34f555cf05b80c"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster008.gif"], "id": "008", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster008.gif", "path": "cores/008.jpg", "checksum": "9cfafe49e0a568e7733116c68bae9967"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster024.gif"], "id": "024", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster024.gif", "path": "cores/024.jpg", "checksum": "9cf6538df631b5f86468eb4c1ff9e933"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster016.gif"], "id": "016", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster016.gif", "path": "cores/016.jpg", "checksum": "08b01ebf502f241a085d7d46b96a402e"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster032.gif"], "id": "032", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster032.gif", "path": "cores/032.jpg", "checksum": "c281664fb0e422d089175717042ceb3f"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster034.gif"], "id": "034", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster034.gif", "path": "cores/034.jpg", "checksum": "b381f8c14e4de4dfae40f008a68c0f0a"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster233.gif"], "id": "233", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster233.gif", "path": "cores/233.jpg", "checksum": "75c8d1ba198f34a968cc9dd5b285fa7d"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster048.gif"], "id": "048", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster048.gif", "path": "cores/048.jpg", "checksum": "c48e38f269933a6ee15cb1173a9ae641"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster237.gif"], "id": "237", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster237.gif", "path": "cores/237.jpg", "checksum": "bd420c0ea7608c9eab20c781e5144f77"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster064.gif"], "id": "064", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster064.gif", "path": "cores/064.jpg", "checksum": "1c331e6b120862450c6f8e73c6a9bad5"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster056.gif"], "id": "056", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster056.gif", "path": "cores/056.jpg", "checksum": "2e94b1568ad5e8f2bf986e43c0f49735"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster077.gif"], "id": "077", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster077.gif", "path": "cores/077.jpg", "checksum": "a61f46d4e7e05c9f802ca91ebe9b4041"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster087.gif"], "id": "087", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster087.gif", "path": "cores/087.jpg", "checksum": "92087ce2ac8b596b55572debfab0efa2"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster109.gif"], "id": "109", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster109.gif", "path": "cores/109.jpg", "checksum": "f20615f1c41b99522ebcb238e7e8193a"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster122.gif"], "id": "122", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster122.gif", "path": "cores/122.jpg", "checksum": "762edb5298dcbab364a16d1dafe46443"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster137.gif"], "id": "137", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster137.gif", "path": "cores/137.jpg", "checksum": "51a16ed2013f728963e0b04f253228a4"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster144.gif"], "id": "144", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster144.gif", "path": "cores/144.jpg", "checksum": "ec1d7934ba23fa7616ea41e862ed1967"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster149.gif"], "id": "149", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster149.gif", "path": "cores/149.jpg", "checksum": "cb0642d2c1f726c5bb0f2cb7f0aa17a1"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster151.gif"], "id": "151", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster151.gif", "path": "cores/151.jpg", "checksum": "d576e9a814850a3a8ae2a2f4d5697249"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster158.gif"], "id": "158", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster158.gif", "path": "cores/158.jpg", "checksum": "289904e79526f05d597ea083bfc4e4f5"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster168.gif"], "id": "168", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster168.gif", "path": "cores/168.jpg", "checksum": "3573753b593d6676e73d3039d7e81a40"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster163.gif"], "id": "163", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster163.gif", "path": "cores/163.jpg", "checksum": "4cd46272336043cb8b88cd34acbc5221"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster181.gif"], "id": "181", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster181.gif", "path": "cores/181.jpg", "checksum": "b5f5cb73c7f736d20649ffc81ea8bd74"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster185.gif"], "id": "185", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster185.gif", "path": "cores/185.jpg", "checksum": "ca3dcfd02ed79522493d40255251a7e7"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster202.gif"], "id": "202", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster202.gif", "path": "cores/202.jpg", "checksum": "c0c184af35a4ecb5ba3eeb47cf463d69"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster210.gif"], "id": "210", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster210.gif", "path": "cores/210.jpg", "checksum": "ace5323bfb0868697571ef44c8eb7755"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster218.gif"], "id": "218", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster218.gif", "path": "cores/218.jpg", "checksum": "75bb7bee1be8a8cae03da8f5e6c4acef"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster232.gif"], "id": "232", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster232.gif", "path": "cores/232.jpg", "checksum": "33a6b46e69dc52b382560b654ddf7a39"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster221.gif"], "id": "221", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster221.gif", "path": "cores/221.jpg", "checksum": "03987359b471cc74db058c1a1ecfa472"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster006.gif"], "id": "006", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster006.gif", "path": "cores/006.jpg", "checksum": "80ae89c6c274f97918c2cae6c111bb88"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster014.gif"], "id": "014", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster014.gif", "path": "cores/014.jpg", "checksum": "9ca62476e2b17db1df4d3119205b54b1"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster022.gif"], "id": "022", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster022.gif", "path": "cores/022.jpg", "checksum": "807e233644c255e19b037e64efd7b714"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster030.gif"], "id": "030", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster030.gif", "path": "cores/030.jpg", "checksum": "b6b433f24139d35944270eb2cb852137"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster039.gif"], "id": "039", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster039.gif", "path": "cores/039.jpg", "checksum": "63fa1d4902e937d43ad24795926263eb"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster046.gif"], "id": "046", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster046.gif", "path": "cores/046.jpg", "checksum": "5099e9d1e5871a2bb29fb2ae930ca862"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster054.gif"], "id": "054", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster054.gif", "path": "cores/054.jpg", "checksum": "0bbd91fc83506b7585ec10576ee30764"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster078.gif"], "id": "078", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster078.gif", "path": "cores/078.jpg", "checksum": "274515a59be5d83673239312e3594158"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster062.gif"], "id": "062", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster062.gif", "path": "cores/062.jpg", "checksum": "d7726de32ac3b8dfe74eeb5e95d247ed"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster082.gif"], "id": "082", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster082.gif", "path": "cores/082.jpg", "checksum": "bf74f9da4071a7f009b6a02dc93116cf"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster071.gif"], "id": "071", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster071.gif", "path": "cores/071.jpg", "checksum": "20489f4f04a057732c534da38e49c7d7"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster093.gif"], "id": "093", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster093.gif", "path": "cores/093.jpg", "checksum": "c0d032c9d2ed4ced445a8fc394f6d410"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster085.gif"], "id": "085", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster085.gif", "path": "cores/085.jpg", "checksum": "e00d9333f62e15e895c5f84f99fbf3a7"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster098.gif"], "id": "098", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster098.gif", "path": "cores/098.jpg", "checksum": "6e27e6839801c871cc4d1f900db1f517"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster102.gif"], "id": "102", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster102.gif", "path": "cores/102.jpg", "checksum": "91764ff42222a4cd0c0cbfb8ecb72b79"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster105.gif"], "id": "105", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster105.gif", "path": "cores/105.jpg", "checksum": "db042b78dbc94d2d459c6de7c56fcb08"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster115.gif"], "id": "115", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster115.gif", "path": "cores/115.jpg", "checksum": "007a1663a5829613a59c0fd3be056b0f"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster112.gif"], "id": "112", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster112.gif", "path": "cores/112.jpg", "checksum": "72933d5cfa324a2ac38ecd3d8192933d"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster129.gif"], "id": "129", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster129.gif", "path": "cores/129.jpg", "checksum": "c4ef432914dfefa8b9dde48fd8c0791f"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster145.gif"], "id": "145", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster145.gif", "path": "cores/145.jpg", "checksum": "b46f1545617d76c417f27441e677684b"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster153.gif"], "id": "153", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster153.gif", "path": "cores/153.jpg", "checksum": "f0a336e3e3a679d439e4a43bc649d4e2"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster182.gif"], "id": "182", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster182.gif", "path": "cores/182.jpg", "checksum": "4cca579e72e2f9526e949237f056631d"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster172.gif"], "id": "172", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster172.gif", "path": "cores/172.jpg", "checksum": "d1aab355d91b0e92bfa56ba70cea9504"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster194.gif"], "id": "194", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster194.gif", "path": "cores/194.jpg", "checksum": "707eb311017470219b56ad901916151a"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster207.gif"], "id": "207", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster207.gif", "path": "cores/207.jpg", "checksum": "f13c9a6c2c2c6fb68571411bc86c0b0a"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster235.gif"], "id": "235", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster235.gif", "path": "cores/235.jpg", "checksum": "adb2ea7a4435adcd3be83137d9e4f55e"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster211.gif"], "id": "211", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster211.gif", "path": "cores/211.jpg", "checksum": "afc498240e6782877194b85ee7c2934c"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster216.gif"], "id": "216", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster216.gif", "path": "cores/216.jpg", "checksum": "c4df55ce416e5566a4ad9a3118ac540b"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster007.gif"], "id": "007", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster007.gif", "path": "cores/007.jpg", "checksum": "4013c35a540525a99f8030f82897f4ca"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster015.gif"], "id": "015", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster015.gif", "path": "cores/015.jpg", "checksum": "c29fe6e3d7161fc1f6da0620ed37c748"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster023.gif"], "id": "023", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster023.gif", "path": "cores/023.jpg", "checksum": "bb604aa57597d9b4b215601df1bd1fca"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster031.gif"], "id": "031", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster031.gif", "path": "cores/031.jpg", "checksum": "7e5bafde7ec7e9cb027c6af1f62d9f77"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster040.gif"], "id": "040", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster040.gif", "path": "cores/040.jpg", "checksum": "95a5222b003720ff5f1f9f67191c7328"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster047.gif"], "id": "047", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster047.gif", "path": "cores/047.jpg", "checksum": "31d425774dc2d908db455e6b0553a6d9"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster055.gif"], "id": "055", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster055.gif", "path": "cores/055.jpg", "checksum": "d9adf584225da91acfa3a58a7a50784a"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster063.gif"], "id": "063", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster063.gif", "path": "cores/063.jpg", "checksum": "57675ee0b950fc5927ef67e46cf64c49"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster110.gif"], "id": "110", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster110.gif", "path": "cores/110.jpg", "checksum": "a402e0ebe9a71e88be8aafe671da9e50"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster099.gif"], "id": "099", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster099.gif", "path": "cores/099.jpg", "checksum": "9028274cb7bbc821abedd52a3462fe88"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster113.gif"], "id": "113", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster113.gif", "path": "cores/113.jpg", "checksum": "710ab41057fe6b320410439722661331"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster134.gif"], "id": "134", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster134.gif", "path": "cores/134.jpg", "checksum": "f755fb78d050298bdfe0b38a18a51654"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster141.gif"], "id": "141", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster141.gif", "path": "cores/141.jpg", "checksum": "533e7c0e7f96323971676014f208ba77"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster146.gif"], "id": "146", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster146.gif", "path": "cores/146.jpg", "checksum": "40e55cd9f9cb40026828a8cf564d6e07"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster156.gif"], "id": "156", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster156.gif", "path": "cores/156.jpg", "checksum": "e2ff8146c830db9a150315ecf66276e7"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster176.gif"], "id": "176", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster176.gif", "path": "cores/176.jpg", "checksum": "2367d18f7ef22fe1c0ad9fa66c3f09b5"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster167.gif"], "id": "167", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster167.gif", "path": "cores/167.jpg", "checksum": "d9bd7e29ffed76a53c585ed549af78f5"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster178.gif"], "id": "178", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster178.gif", "path": "cores/178.jpg", "checksum": "1b88579c27b766206b064d22798af9f5"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster191.gif"], "id": "191", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster191.gif", "path": "cores/191.jpg", "checksum": "d28c6777ffa341ae929740b46f597eed"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster195.gif"], "id": "195", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster195.gif", "path": "cores/195.jpg", "checksum": "22118310a172c4f3f7eafcb8a92af167"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster205.gif"], "id": "205", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster205.gif", "path": "cores/205.jpg", "checksum": "e989f7120a6bfe9a530ee2e755e35dd6"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster212.gif"], "id": "212", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster212.gif", "path": "cores/212.jpg", "checksum": "41658f18e486d76c2744cabcfb485c6f"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster217.gif"], "id": "217", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster217.gif", "path": "cores/217.jpg", "checksum": "ac9ccf767cb11983b7b7215525964ce1"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster222.gif"], "id": "222", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster222.gif", "path": "cores/222.jpg", "checksum": "a680062cc08e18a6b788192a0141cc9b"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster236.gif"], "id": "236", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster236.gif", "path": "cores/236.jpg", "checksum": "2e07407ca0b12dcd7ba229c9ef722e2d"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster003.gif"], "id": "003", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster003.gif", "path": "cores/003.jpg", "checksum": "652049ae77fa6a768052a1888becd837"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster011.gif"], "id": "011", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster011.gif", "path": "cores/011.jpg", "checksum": "7f023d187880584da803c345dfbf33df"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster019.gif"], "id": "019", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster019.gif", "path": "cores/019.jpg", "checksum": "d26a5afee3605306e0762c41f7b2281f"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster027.gif"], "id": "027", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster027.gif", "path": "cores/027.jpg", "checksum": "ec3ffd1c6442ba51887a5ec3480ee1a6"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster036.gif"], "id": "036", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster036.gif", "path": "cores/036.jpg", "checksum": "e60450a34d23b681e2200a312cf6a760"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster051.gif"], "id": "051", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster051.gif", "path": "cores/051.jpg", "checksum": "48dbf66ba77f47fb4f90a7f27346af12"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster043.gif"], "id": "043", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster043.gif", "path": "cores/043.jpg", "checksum": "0b356ae47607bed3744fbb2c58de659f"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster060.gif"], "id": "060", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster060.gif", "path": "cores/060.jpg", "checksum": "988931f383879a026d37dec9e21a62f6"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster070.gif"], "id": "070", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster070.gif", "path": "cores/070.jpg", "checksum": "ada2c9c5575fdc09fe0f7c562902aae5"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster091.gif"], "id": "091", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster091.gif", "path": "cores/091.jpg", "checksum": "570d3607786093116fc5c2cb3815ebdb"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster094.gif"], "id": "094", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster094.gif", "path": "cores/094.jpg", "checksum": "479d1c68da8125a5ed0c82d3c440f0c2"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster084.gif"], "id": "084", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster084.gif", "path": "cores/084.jpg", "checksum": "27508af77a80af74117aa62b0db2c0a8"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster076.gif"], "id": "076", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster076.gif", "path": "cores/076.jpg", "checksum": "26ec82eb1fb2c6617623c1fc4b8a2e58"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster096.gif"], "id": "096", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster096.gif", "path": "cores/096.jpg", "checksum": "40196b3cdf127f9be6cb526a5c58f56d"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster103.gif"], "id": "103", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster103.gif", "path": "cores/103.jpg", "checksum": "cc744ac3daa25411092caecff9b13e30"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster138.gif"], "id": "138", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster138.gif", "path": "cores/138.jpg", "checksum": "4fd9fa4e81602bf49cd4411dcd6330b8"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster111.gif"], "id": "111", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster111.gif", "path": "cores/111.jpg", "checksum": "dc69f9575bf048b5153343070d84fb4d"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster117.gif"], "id": "117", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster117.gif", "path": "cores/117.jpg", "checksum": "cc1321d56341b2448d13d9a2e18046f9"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster142.gif"], "id": "142", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster142.gif", "path": "cores/142.jpg", "checksum": "d222c578606481b4c9e2f3e9619fe579"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster154.gif"], "id": "154", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster154.gif", "path": "cores/154.jpg", "checksum": "51cbd0f80e3005566912dbaa7b5a4349"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster005.gif"], "id": "005", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster005.gif", "path": "cores/005.jpg", "checksum": "be895017eee9b4f7ce06709cec0db1c5"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster155.gif"], "id": "155", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster155.gif", "path": "cores/155.jpg", "checksum": "6d9ebe3d85f41e8e7ff07729497816cd"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster159.gif"], "id": "159", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster159.gif", "path": "cores/159.jpg", "checksum": "57e280822ac756256bb9adbfa0f43eac"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster161.gif"], "id": "161", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster161.gif", "path": "cores/161.jpg", "checksum": "57b0340d0f53ef603418ff75076bc75b"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster175.gif"], "id": "175", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster175.gif", "path": "cores/175.jpg", "checksum": "53111aeb23c6fd2d6a2e3389f1e46816"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster166.gif"], "id": "166", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster166.gif", "path": "cores/166.jpg", "checksum": "2b2ee7a64bbb4bacd8133dc4a5117a8b"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster171.gif"], "id": "171", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster171.gif", "path": "cores/171.jpg", "checksum": "222f62aeb58d32a4daa2d90d8e14e026"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster179.gif"], "id": "179", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster179.gif", "path": "cores/179.jpg", "checksum": "7961e784b82ac5ef20d6951f55a26d65"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster186.gif"], "id": "186", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster186.gif", "path": "cores/186.jpg", "checksum": "146175bcf5ea361e2a1577e9dd3a9bfb"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster193.gif"], "id": "193", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster193.gif", "path": "cores/193.jpg", "checksum": "9b9e7b017f38a3fd920fc902ab7ccccb"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster196.gif"], "id": "196", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster196.gif", "path": "cores/196.jpg", "checksum": "d1a5cd57b43acf35d7e74de33fdc2bcb"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster199.gif"], "id": "199", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster199.gif", "path": "cores/199.jpg", "checksum": "b15ec7db6ca51c37585d02c16dc35221"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster214.gif"], "id": "214", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster214.gif", "path": "cores/214.jpg", "checksum": "a3788d8c6ed8671308d65f03d67bec42"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster021.gif"], "id": "021", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster021.gif", "path": "cores/021.jpg", "checksum": "1835d25e5213e00ba785c9690d3fb004"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster013.gif"], "id": "013", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster013.gif", "path": "cores/013.jpg", "checksum": "7c274cc37fb60bc0996d86e40a05dcbd"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster029.gif"], "id": "029", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster029.gif", "path": "cores/029.jpg", "checksum": "cf861a0fe64a2c88f5c526aa099293d2"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster045.gif"], "id": "045", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster045.gif", "path": "cores/045.jpg", "checksum": "f9ebfb009a8a870a7cfaacd1e1d72e74"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster038.gif"], "id": "038", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster038.gif", "path": "cores/038.jpg", "checksum": "07f859da7fc89b5a3f436a3b78c87983"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster053.gif"], "id": "053", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster053.gif", "path": "cores/053.jpg", "checksum": "f1ccc1c4970b5226fe1668dbcb6d6630"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster061.gif"], "id": "061", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster061.gif", "path": "cores/061.jpg", "checksum": "5ad774f6f64c08bf6fcfd6bc1a23f6f0"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster072.gif"], "id": "072", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster072.gif", "path": "cores/072.jpg", "checksum": "9151661ea5149106a6066791809e85b1"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster092.gif"], "id": "092", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster092.gif", "path": "cores/092.jpg", "checksum": "71be92cce34b5095fe375fd8e3ff489f"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster081.gif"], "id": "081", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster081.gif", "path": "cores/081.jpg", "checksum": "2458208524e886e8f7c020251991e4de"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster100.gif"], "id": "100", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster100.gif", "path": "cores/100.jpg", "checksum": "0aa24375d0cac3875be589c036695bed"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster086.gif"], "id": "086", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster086.gif", "path": "cores/086.jpg", "checksum": "7317da824cfa3e7f1f8b69f55b556f1e"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster107.gif"], "id": "107", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster107.gif", "path": "cores/107.jpg", "checksum": "06cf6c544bece40356ef66a93fe40898"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster116.gif"], "id": "116", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster116.gif", "path": "cores/116.jpg", "checksum": "94d929d108232bb20c9cd4c62475e28d"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster225.gif"], "id": "225", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster225.gif", "path": "cores/225.jpg", "checksum": "a8616522a5fc41a68e63da9dc88c6f14"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster224.gif"], "id": "224", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster224.gif", "path": "cores/224.jpg", "checksum": "bef8be93e6cdb615b9bf659ce339503b"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster133.gif"], "id": "133", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster133.gif", "path": "cores/133.jpg", "checksum": "6f976f06b1ca1290dcf78708417fb4a3"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster004.gif"], "id": "004", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster004.gif", "path": "cores/004.jpg", "checksum": "a8a1de76df6222572ffafcfdae27bd13"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster125.gif"], "id": "125", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster125.gif", "path": "cores/125.jpg", "checksum": "53cddb9cf08025435ef151376a4b7b41"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster143.gif"], "id": "143", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster143.gif", "path": "cores/143.jpg", "checksum": "93cf53655017d9a893fa29c878b539aa"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster150.gif"], "id": "150", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster150.gif", "path": "cores/150.jpg", "checksum": "3e26a5b72daecfdfdf204a73e9c0a0dc"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster164.gif"], "id": "164", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster164.gif", "path": "cores/164.jpg", "checksum": "3449489ae433a521c0ceaa80c57e7951"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster170.gif"], "id": "170", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster170.gif", "path": "cores/170.jpg", "checksum": "bda91bdab72fe78d9fb83a2a5584392e"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster174.gif"], "id": "174", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster174.gif", "path": "cores/174.jpg", "checksum": "9b5a81a834b80d5e34a487b091303891"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster189.gif"], "id": "189", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster189.gif", "path": "cores/189.jpg", "checksum": "30607df66f18b47bf468624e7585a3a7"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster192.gif"], "id": "192", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster192.gif", "path": "cores/192.jpg", "checksum": "3764ff2c23962ce234d0c6d4b0fe342b"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster200.gif"], "id": "200", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster200.gif", "path": "cores/200.jpg", "checksum": "ec3f453016a4fef0fdf38b0a84ccbef6"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster204.gif"], "id": "204", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster204.gif", "path": "cores/204.jpg", "checksum": "392f82a998a8205a9c5d5b01ae73b090"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster209.gif"], "id": "209", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster209.gif", "path": "cores/209.jpg", "checksum": "f278b0cbd186ccdf0b1dee3bff016382"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster219.gif"], "id": "219", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster219.gif", "path": "cores/219.jpg", "checksum": "67a5335bb955d2c7a807c67a7ab8c692"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster002.gif"], "id": "002", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster002.gif", "path": "cores/002.jpg", "checksum": "1ea7e310c87f148ecefbf9d770a81328"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster012.gif"], "id": "012", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster012.gif", "path": "cores/012.jpg", "checksum": "a81956b31c54f33a17e0bb9ca7eac722"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster020.gif"], "id": "020", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster020.gif", "path": "cores/020.jpg", "checksum": "4383ce0f4dcc622b9070d6f615cb3eea"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster028.gif"], "id": "028", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster028.gif", "path": "cores/028.jpg", "checksum": "8eab9495e08584555197b283bc078f75"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster037.gif"], "id": "037", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster037.gif", "path": "cores/037.jpg", "checksum": "c5652c5aacfb1685ba3ffc2ae61772b8"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster044.gif"], "id": "044", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster044.gif", "path": "cores/044.jpg", "checksum": "b883623201a000fa4be8b8215737b680"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster052.gif"], "id": "052", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster052.gif", "path": "cores/052.jpg", "checksum": "a3a8d549af9dd89ded0ec7bbacf05579"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster065.gif"], "id": "065", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster065.gif", "path": "cores/065.jpg", "checksum": "45054b52c6a1709dff142dac7989d61e"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster080.gif"], "id": "080", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster080.gif", "path": "cores/080.jpg", "checksum": "cfc5946c3aee89161e37bf6ccf51bf4f"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster074.gif"], "id": "074", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster074.gif", "path": "cores/074.jpg", "checksum": "4916f536b2129b0b039e6740bb1adc44"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster069.gif"], "id": "069", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster069.gif", "path": "cores/069.jpg", "checksum": "e793648e62f011fb540edcf5f126668e"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster088.gif"], "id": "088", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster088.gif", "path": "cores/088.jpg", "checksum": "e28f052c54a492ac059f427c923261a5"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster097.gif"], "id": "097", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster097.gif", "path": "cores/097.jpg", "checksum": "9a6e5eb111eda3e58ed8436b50fe9303"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster101.gif"], "id": "101", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster101.gif", "path": "cores/101.jpg", "checksum": "cc88f56be4977524742c56297b882bac"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster010.gif"], "id": "010", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster010.gif", "path": "cores/010.jpg", "checksum": "d87b1ba641b63858584e3da547b1178c"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster018.gif"], "id": "018", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster018.gif", "path": "cores/018.jpg", "checksum": "ef1fc1fe9690bf16aa59f30a21dfa00d"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster026.gif"], "id": "026", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster026.gif", "path": "cores/026.jpg", "checksum": "275d2d37e3cb6c6c0714c2e9c5567e4a"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster035.gif"], "id": "035", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster035.gif", "path": "cores/035.jpg", "checksum": "3c9b6fe12f2ebc53a20daabac4a41c22"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster042.gif"], "id": "042", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster042.gif", "path": "cores/042.jpg", "checksum": "9025e4aec2fe169344f945360046f6b4"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster050.gif"], "id": "050", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster050.gif", "path": "cores/050.jpg", "checksum": "c2ebde760b6eda00be29e6f1ffe667c4"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster059.gif"], "id": "059", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster059.gif", "path": "cores/059.jpg", "checksum": "1e008484b1dd94ca7dc4b362dbf3e1b4"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster066.gif"], "id": "066", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster066.gif", "path": "cores/066.jpg", "checksum": "9ef0cb3b449c1c0f360964647b76dee8"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster068.gif"], "id": "068", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster068.gif", "path": "cores/068.jpg", "checksum": "e1d18bdec37882df84f75ced8f255790"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster073.gif"], "id": "073", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster073.gif", "path": "cores/073.jpg", "checksum": "bde4c7f12d26a31ac80bcddf225c0de2"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster079.gif"], "id": "079", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster079.gif", "path": "cores/079.jpg", "checksum": "b48e868ceb64b393029c577f0c8686ef"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster104.gif"], "id": "104", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster104.gif", "path": "cores/104.jpg", "checksum": "56157a408a91cec389dbf88ebd2463fe"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster108.gif"], "id": "108", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster108.gif", "path": "cores/108.jpg", "checksum": "6148598d944881fb421aebf07f63a984"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster119.gif"], "id": "119", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster119.gif", "path": "cores/119.jpg", "checksum": "fdac6b0b3f431ad7d5673433fd744012"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster121.gif"], "id": "121", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster121.gif", "path": "cores/121.jpg", "checksum": "018fdf0f1f205390984d71575898c499"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster124.gif"], "id": "124", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster124.gif", "path": "cores/124.jpg", "checksum": "9cab0206789e7076576b87f462dc5d25"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster130.gif"], "id": "130", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster130.gif", "path": "cores/130.jpg", "checksum": "8f878639a20f5d18f985bf05258fcf43"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster132.gif"], "id": "132", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster132.gif", "path": "cores/132.jpg", "checksum": "35b97d43e009802a0b29e66b676422d0"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster120.gif"], "id": "120", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster120.gif", "path": "cores/120.jpg", "checksum": "e03c5a177f1686d90600a17e81cd86f3"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster126.gif"], "id": "126", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster126.gif", "path": "cores/126.jpg", "checksum": "1930eff685ea6ce2fe5ad53ee2691999"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster131.gif"], "id": "131", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster131.gif", "path": "cores/131.jpg", "checksum": "b8c8a2451c1d4fb7cfd060f044eee9b7"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster128.gif"], "id": "128", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster128.gif", "path": "cores/128.jpg", "checksum": "007430c7d239ef3985bfd9763aafde58"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster136.gif"], "id": "136", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster136.gif", "path": "cores/136.jpg", "checksum": "1e0014ccc2fed4ac17ca7b598bac317e"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster139.gif"], "id": "139", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster139.gif", "path": "cores/139.jpg", "checksum": "29f51b5a8fda049290d1dc0cb0b52beb"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster152.gif"], "id": "152", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster152.gif", "path": "cores/152.jpg", "checksum": "31b970d9636a647d9a39d8af4752eda8"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster162.gif"], "id": "162", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster162.gif", "path": "cores/162.jpg", "checksum": "76d2cb8a98fb61757b410f533cbacd88"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster177.gif"], "id": "177", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster177.gif", "path": "cores/177.jpg", "checksum": "2200263b358cb8d1da938ced1aa2e520"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster184.gif"], "id": "184", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster184.gif", "path": "cores/184.jpg", "checksum": "cdf0ab66c30bceda3ce22754845e54bc"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster190.gif"], "id": "190", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster190.gif", "path": "cores/190.jpg", "checksum": "ed91e40deb9a8c17fb04ec56771679c7"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster198.gif"], "id": "198", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster198.gif", "path": "cores/198.jpg", "checksum": "143c3d1513f4514813e4b74d4b157359"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster208.gif"], "id": "208", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster208.gif", "path": "cores/208.jpg", "checksum": "b5495e972d0b80287573c9224c1554d2"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster220.gif"], "id": "220", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster220.gif", "path": "cores/220.jpg", "checksum": "25ff90ae6bae1f9b0aa26ed3ad95be3a"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster227.gif"], "id": "227", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster227.gif", "path": "cores/227.jpg", "checksum": "299557c485c55399b18e596db012945d"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster135.gif"], "id": "135", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster135.gif", "path": "cores/135.jpg", "checksum": "2620d01345ac0ba0345c08366dd6ec40"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster148.gif"], "id": "148", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster148.gif", "path": "cores/148.jpg", "checksum": "83e51fde76fa52712bcdbabbf4e3503e"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster157.gif"], "id": "157", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster157.gif", "path": "cores/157.jpg", "checksum": "041a225c3a14f568d782b86cf8bf9576"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster165.gif"], "id": "165", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster165.gif", "path": "cores/165.jpg", "checksum": "c57d49b1664acc068ad2d1a07c5e6d4a"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster173.gif"], "id": "173", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster173.gif", "path": "cores/173.jpg", "checksum": "c6bb7d0c3a02e02116ed9806e67710a0"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster180.gif"], "id": "180", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster180.gif", "path": "cores/180.jpg", "checksum": "d22ad39160fe1330a293b90bbe9c6780"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster187.gif"], "id": "187", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster187.gif", "path": "cores/187.jpg", "checksum": "85cae742efac29fc20241c0b4ab94777"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster197.gif"], "id": "197", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster197.gif", "path": "cores/197.jpg", "checksum": "1b9491dc3b9957e358c8d8570b674d63"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster203.gif"], "id": "203", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster203.gif", "path": "cores/203.jpg", "checksum": "c04912a2c28984775e987cd56e2ce9e0"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster223.gif"], "id": "223", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster223.gif", "path": "cores/223.jpg", "checksum": "f1f99af4b9f13af8b56bb49094223013"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster228.gif"], "id": "228", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster228.gif", "path": "cores/228.jpg", "checksum": "ff458268044c36754f404d1974042661"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster234.gif"], "id": "234", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster234.gif", "path": "cores/234.jpg", "checksum": "3c4820c08fd2ce418246fb5dad5b3b96"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster229.gif"], "id": "229", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster229.gif", "path": "cores/229.jpg", "checksum": "2aab316997aa2a45679a78be9aaeedda"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster230.gif"], "id": "230", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster230.gif", "path": "cores/230.jpg", "checksum": "0292f3f54290cffce25dbc10b7b4e387"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster230.gif"], "id": "230", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster230.gif", "path": "cores/230.jpg", "checksum": "0292f3f54290cffce25dbc10b7b4e387"}]}
+{"image_urls": ["http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster213.gif"], "id": "213", "images": [{"url": "http://www.vocecurte.com/wp-content/uplouds/2009/08/01_monster213.gif", "path": "cores/213.jpg", "checksum": "1ca57915f7b0ecc20ca195a3c482e980"}]}
