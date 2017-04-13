@@ -2,7 +2,6 @@
 
 from scrapy          import Spider, Request
 from mixmaster.items import ImageCore
-from re              import match
 
 class Cores(Spider):
 	name = 'images'
