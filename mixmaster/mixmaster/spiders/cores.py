@@ -2,6 +2,7 @@
 
 from scrapy          import Spider, Request
 from mixmaster.items import Core
+from re              import search
 
 class Cores(Spider):
 	name = 'cores'
@@ -19,7 +20,6 @@ class Cores(Spider):
 		LEVEL_SELECTOR = './tr/td[4]/div/span/text()'
 		RANGE_SELECTOR = './tr[2]/td[2]/div/span/text()'
 		SPECIFIC_SELECTOR = './tr[2]/td[4]/div/span/text()'
-
 		for hench in response.xpath(HENCH_SELECTOR):
 			NAME_SELECTOR = './tr/td[2]/div/strong/span/text()'
 

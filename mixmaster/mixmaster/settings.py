@@ -17,7 +17,8 @@ NEWSPIDER_MODULE = 'mixmaster.spiders'
 IMAGES_STORE = 'images/'
 
 ITEM_PIPELINES = {
-    'mixmaster.pipelines.JsonWriterPipeline': 999
+    'mixmaster.pipelines.MyImagesPipeline': 1,
+    'mixmaster.pipelines.JsonWriterPipeline': 2,
 }
 
 
