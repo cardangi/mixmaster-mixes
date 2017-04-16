@@ -3,16 +3,17 @@ from scrapy                  import Request
 from scrapy.pipelines.images import ImagesPipeline
 
 class JsonWriterPipeline(object):
-    def open_spider(self, spider):
-        self.file = open('cores.jl', 'wb')
+	def open_spider(self, spider):
+		if spider.name in ['cores']:
+			self.file = open('cores.jl', 'wb')
 
-    def close_spider(self, spider):
-        self.file.close()
+	def close_spider(self, spider):
+		self.file.close()
 
-    def process_item(self, item, spider):
-        line = dumps(dict(item)) + "\n"
-        self.file.write(line.encode())
-        return item
+	def process_item(self, item, spider):
+		line = dumps(dict(item)) + "\n"
+		self.file.write(line.encode())
+		return item
 
 class MyImagesPipeline(ImagesPipeline):
 	def get_media_requests(self, item, info):
