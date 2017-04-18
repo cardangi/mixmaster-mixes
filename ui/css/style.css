@@ -1,0 +1,42 @@
+.clearfix {
+	overflow: auto;
+	zoom: 1;
+}
+
+header {
+	position: relative;
+	background-color: #54a8f3;
+}
+
+header img {
+	margin-top: 20px;
+	max-height: 100px;
+	margin-bottom: 10px;
+}
+
+.links-header li {
+  display: inline-block;
+  padding-right: 20px;
+}
+
+.links-header li a {
+	font-family: 'Maven Pro', sans-serif;
+	font-size: 20px;
+	text-decoration: none;
+	color: #050f26;
+}
+
+#nav-header {
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+}
+/*
+pallete
+
+#bb588c
+#54a8f3 background
+#f26563
+#bfe4f9
+#050f26 text
+*/
