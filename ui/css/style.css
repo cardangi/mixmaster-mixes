@@ -1,6 +1,24 @@
+/*
+pallete
+
+#bb588c
+#54a8f3 background
+#f26563
+#bfe4f9
+#050f26 text
+*/
+
 .clearfix {
 	overflow: auto;
 	zoom: 1;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	color: #050f26;
+}
+
+h2 {
+	text-align: center;
 }
 
 header {
@@ -14,9 +32,24 @@ header img {
 	margin-bottom: 10px;
 }
 
+#nav-header {
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+}
+
+#goal {
+	margin: 20px auto;
+	max-width: 70%;
+}
+
+#goal p {
+	text-align: justify;
+}
+
 .links-header li {
-  display: inline-block;
-  padding-right: 20px;
+	display: inline-block;
+	padding-right: 20px;
 }
 
 .links-header li a {
@@ -25,18 +58,3 @@ header img {
 	text-decoration: none;
 	color: #050f26;
 }
-
-#nav-header {
-	position: absolute;
-	right: 20px;
-	bottom: 20px;
-}
-/*
-pallete
-
-#bb588c
-#54a8f3 background
-#f26563
-#bfe4f9
-#050f26 text
-*/
