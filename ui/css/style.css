@@ -13,6 +13,23 @@ pallete
 	zoom: 1;
 }
 
+body {
+	position: relative;
+	margin: 0;
+	padding-bottom: 6rem;
+	min-height: 100%;
+}
+
+footer {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	background-color: #54a8f3;
+	text-align: center;
+}
+
 h1, h2, h3, h4, h5, h6, p {
 	color: #050f26;
 }
