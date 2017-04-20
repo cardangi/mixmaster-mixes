@@ -18,6 +18,7 @@ body {
 	margin: 0;
 	padding-bottom: 6rem;
 	min-height: 100%;
+    font-family: 'Quicksand', sans-serif;
 }
 
 footer {
@@ -70,8 +71,21 @@ header img {
 }
 
 .links-header li a {
-	font-family: 'Maven Pro', sans-serif;
 	font-size: 20px;
 	text-decoration: none;
 	color: #050f26;
+}
+
+/*
+	útil
+*/
+.center-image {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.top-core img {
+	float: top;
+	padding-right: 30px;
 }
